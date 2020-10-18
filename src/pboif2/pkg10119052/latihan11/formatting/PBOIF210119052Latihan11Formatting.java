@@ -7,7 +7,7 @@ package pboif2.pkg10119052.latihan11.formatting;
  * KELAS  : IF-2
  * NIM    : 10119052
  * Deskripsi Program : Program ini berisi program untuk menampilkan
- * tipe data Integer
+ * formatting
  * 
  */
 public class PBOIF210119052Latihan11Formatting {
